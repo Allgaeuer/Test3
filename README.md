@@ -2,8 +2,7 @@ Test3
 =====
 <html>
 <head>
-<font size=3/font> 
-Ein kleiner Versuch, die Überschrift zu gestalten.
+<big>Ein kleiner Versuch, die Überschrift zu gestalten.<big>
 <head>
 
 <body>

@@ -2,7 +2,7 @@ Test3
 =====
 <html>
 <head>
-<big>Ein kleiner Versuch, die Überschrift zu gestalten.</big>
+<big> Ein kleiner Versuch, die Überschrift zu gestalten. </big>
 <head>
 
 <body>
